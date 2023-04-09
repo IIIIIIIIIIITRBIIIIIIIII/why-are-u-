@@ -1,0 +1,38 @@
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    height: 70px;
+    color: black;
+}
+
+.b {
+    display: flex;
+    margin-right: 700px;
+    background-color: white;
+}
+
+.s {
+    background-color: white;
+    margin-top: 10px;
+}
+
+.ghg {
+    margin: 20px;
+    background-color: white;
+    color: black;
+}
+
+.IoMdBeer {
+    margin: 10px;
+}
+
+.fdfd {
+    background-color: white;
+}
+
+.GrBasket {
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 40px;
+}

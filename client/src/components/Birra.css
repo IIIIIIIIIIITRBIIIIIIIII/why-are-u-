@@ -1,0 +1,21 @@
+.ma{
+    width: 200px;
+}
+
+.ja {
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.goga {
+    margin-top: 250px;
+    margin-left: 950px;
+    border: solid;
+    width: 600px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.toutou {
+    margin-left: 1250px;
+}
